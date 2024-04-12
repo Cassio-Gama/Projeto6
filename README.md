@@ -1,7 +1,7 @@
 FECAP - Fundação de Comércio Álvares Penteado
 
 
-Clima Hero: A Aventura Sustentável
+Clima Hero: Uma Aventura Sustentável
 
 
 ![Captura de tela 2023-11-21 205632](https://github.com/2023-2-MCC1/Projeto6/assets/138239786/c5dfe7a3-c0ba-4c59-9b81-4336025c3e80)
